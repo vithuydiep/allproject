@@ -1,0 +1,137 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\bin\Debug\Day01.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\bin\Debug\Day01.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\bin\Debug\Day01.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.addnewUserForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.listSameName.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.loignForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.mainForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.addStudentForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.ManageForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.PrintForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.StacticsForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.studentsListForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.updateDeleteStudentsForms.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.UserListForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\QLSV.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\18110237_DiepThuyVi_Day01\Day01\obj\Debug\Day01.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.addnewUserForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.listSameName.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.loignForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.mainForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.addStudentForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.ManageForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.PrintForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.StacticsForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.studentsListForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.updateDeleteStudentsForms.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.UserListForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.exe.config
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.exe
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.pdb
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.addnewUserForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.listSameName.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.loignForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.mainForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.addStudentForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.ManageForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.PrintForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.StacticsForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.studentsListForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.updateDeleteStudentsForms.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.UserListForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.exe
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.pdb
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.AddCourseForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.EditCourseForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.RemoveCourseForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.Piechart.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.ColumnChart.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.ManageCourseForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.PrintCoursesForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.SCORE.AddScoreForm.resources
+D:\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.SCORE.RemoveScoreForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.exe.config
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.exe
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.pdb
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csprojAssemblyReference.cache
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.ManageCourseForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.PrintCoursesForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.SCORE.AddScoreForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.SCORE.RemoveScoreForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.ColumnChart.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.AddCourseForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.EditCourseForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.RemoveCourseForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.Piechart.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.addnewUserForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.listSameName.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.loignForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.mainForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.addStudentForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.ManageForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.PrintForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.Properties.Resources.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.StacticsForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.studentsListForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.updateDeleteStudentsForms.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.UserListForm.resources
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.exe
+C:\Users\Vi Diep\Documents\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.pdb
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.exe.config
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.exe
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\bin\Debug\Day01.pdb
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csprojAssemblyReference.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.ManageCourseForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.PrintCoursesForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.SCORE.AddScoreForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.SCORE.ManageScoreForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.SCORE.RemoveScoreForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.ColumnChart.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.AddCourseForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.EditCourseForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.COURSE.RemoveCourseForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.Piechart.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.addnewUserForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.listSameName.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.loignForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.mainForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.addStudentForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.ManageForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.PrintForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.Properties.Resources.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.StacticsForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.studentsListForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.updateDeleteStudentsForms.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.exe
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.pdb
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.SCORE.AvgScoreByCourse.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.ResultForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.StaticsResultForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.SCORE.PrintScoreForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.mainContact.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.AddContactForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.EditContactForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.SelectContactForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.ShowListForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.USERSV.EditUserForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.RESULTSV.StaticsChartByCourse.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\Visual Studio 2017\Projects\Laptrinhwindow\DiepThuyVi_QLSV\Day01\obj\Debug\Day01.RESULTSV.StaticsChartResult.resources

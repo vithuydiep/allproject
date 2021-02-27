@@ -1,0 +1,623 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{56DF4FB5-4992-4E2F-8E2B-FE157D3F3396}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TestFramework</RootNamespace>
+    <AssemblyName>TestFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\Guna.UI\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.0.9, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.0.9\lib\net40\Guna.UI2.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="billdataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>billdataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Class\CTSALES.cs" />
+    <Compile Include="Class\GlobalsMaNV.cs" />
+    <Compile Include="Class\GlobalsPhone.cs" />
+    <Compile Include="Class\KH.cs" />
+    <Compile Include="Class\Order.cs" />
+    <Compile Include="DiamondGroupDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DiamondGroupDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DiamondGroupDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DiamondGroupDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DiamondGroupDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DiamondGroupDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DiamondGroupDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DiamondGroupDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DiamondGroupDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DiamondGroupDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DiamondGroupDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DiamondGroupDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DiamondGroupDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DiamondGroupDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Nvdataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Nvdataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="productDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>productDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="productdataset1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>productdataset1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pro\addCus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pro\addCus.Designer.cs">
+      <DependentUpon>addCus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pro\addnewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pro\addnewProduct.Designer.cs">
+      <DependentUpon>addnewProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Chamcong.cs" />
+    <Compile Include="Class\Luong.cs" />
+    <Compile Include="Class\NV.cs" />
+    <Compile Include="Class\Globals.cs" />
+    <Compile Include="Pro\InfProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pro\InfProduct.Designer.cs">
+      <DependentUpon>InfProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pro\formMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pro\formMain.designer.cs">
+      <DependentUpon>formMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyData.cs" />
+    <Compile Include="Class\PRODUCT.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pro\Manaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pro\Manaform.Designer.cs">
+      <DependentUpon>Manaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pro\manaOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pro\manaOrder.Designer.cs">
+      <DependentUpon>manaOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pro\manapro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pro\manapro.Designer.cs">
+      <DependentUpon>manapro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pro\order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pro\order.Designer.cs">
+      <DependentUpon>order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pro\SaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pro\SaleForm.Designer.cs">
+      <DependentUpon>SaleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pro\Statistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pro\Statistic.Designer.cs">
+      <DependentUpon>Statistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffDataset.cs">
+      <DependentUpon>StaffDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="StaffDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StaffDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\AddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\AddStaff.Designer.cs">
+      <DependentUpon>AddStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\DetailsNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\DetailsNV.Designer.cs">
+      <DependentUpon>DetailsNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\ManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\ManageForm.Designer.cs">
+      <DependentUpon>ManageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\Salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\Salary.Designer.cs">
+      <DependentUpon>Salary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\SalaryStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\SalaryStaff.Designer.cs">
+      <DependentUpon>SalaryStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\Showfulllist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\Showfulllist.Designer.cs">
+      <DependentUpon>Showfulllist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\StatisticStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\StatisticStaff.Designer.cs">
+      <DependentUpon>StatisticStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\Timekeeping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\Timekeeping.Designer.cs">
+      <DependentUpon>Timekeeping.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Pro\addCus.resx">
+      <DependentUpon>addCus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pro\addnewProduct.resx">
+      <DependentUpon>addnewProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pro\InfProduct.resx">
+      <DependentUpon>InfProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pro\formMain.resx">
+      <DependentUpon>formMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Pro\Manaform.resx">
+      <DependentUpon>Manaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pro\manaOrder.resx">
+      <DependentUpon>manaOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pro\manapro.resx">
+      <DependentUpon>manapro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pro\order.resx">
+      <DependentUpon>order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pro\SaleForm.resx">
+      <DependentUpon>SaleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pro\Statistic.resx">
+      <DependentUpon>Statistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\AddStaff.resx">
+      <DependentUpon>AddStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\DetailsNV.resx">
+      <DependentUpon>DetailsNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\ManageForm.resx">
+      <DependentUpon>ManageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\Salary.resx">
+      <DependentUpon>Salary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\SalaryStaff.resx">
+      <DependentUpon>SalaryStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\Showfulllist.resx">
+      <DependentUpon>Showfulllist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\StatisticStaff.resx">
+      <DependentUpon>StatisticStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\Timekeeping.resx">
+      <DependentUpon>Timekeeping.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="billdataset.xsc">
+      <DependentUpon>billdataset.xsd</DependentUpon>
+    </None>
+    <None Include="billdataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>billdataset.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="billdataset.xss">
+      <DependentUpon>billdataset.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet.xsc">
+      <DependentUpon>DiamondGroupDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DiamondGroupDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DiamondGroupDataSet.xss">
+      <DependentUpon>DiamondGroupDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet1.xsc">
+      <DependentUpon>DiamondGroupDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DiamondGroupDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DiamondGroupDataSet1.xss">
+      <DependentUpon>DiamondGroupDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet2.xsc">
+      <DependentUpon>DiamondGroupDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DiamondGroupDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DiamondGroupDataSet2.xss">
+      <DependentUpon>DiamondGroupDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet3.xsc">
+      <DependentUpon>DiamondGroupDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DiamondGroupDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DiamondGroupDataSet3.xss">
+      <DependentUpon>DiamondGroupDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet4.xsc">
+      <DependentUpon>DiamondGroupDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DiamondGroupDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DiamondGroupDataSet4.xss">
+      <DependentUpon>DiamondGroupDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet5.xsc">
+      <DependentUpon>DiamondGroupDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DiamondGroupDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DiamondGroupDataSet5.xss">
+      <DependentUpon>DiamondGroupDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet6.xsc">
+      <DependentUpon>DiamondGroupDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="DiamondGroupDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DiamondGroupDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DiamondGroupDataSet6.xss">
+      <DependentUpon>DiamondGroupDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Nvdataset.xsc">
+      <DependentUpon>Nvdataset.xsd</DependentUpon>
+    </None>
+    <None Include="Nvdataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Nvdataset.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Nvdataset.xss">
+      <DependentUpon>Nvdataset.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="productDataset.xsc">
+      <DependentUpon>productDataset.xsd</DependentUpon>
+    </None>
+    <None Include="productDataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>productDataset.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="productDataset.xss">
+      <DependentUpon>productDataset.xsd</DependentUpon>
+    </None>
+    <None Include="productdataset1.xsc">
+      <DependentUpon>productdataset1.xsd</DependentUpon>
+    </None>
+    <None Include="productdataset1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>productdataset1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="productdataset1.xss">
+      <DependentUpon>productdataset1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="StaffDataset.xsc">
+      <DependentUpon>StaffDataset.xsd</DependentUpon>
+    </None>
+    <None Include="StaffDataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StaffDataset.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="StaffDataset.xss">
+      <DependentUpon>StaffDataset.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar-torres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\508740-agriculture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\j.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\j1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\97-979583_display-of-full-page-app-intro-page-bts.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\823f8ebea37e7b247d8ebe50ebbaf91f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hoa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa4421ea21cff339214c177166b8bd72.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\longvu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a0aa97cd9692bdb9545f78b8958af7a1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ngang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\94c9afe6775ef2832dc814bd2c11089f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hdjshd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edbd48bbf3f7e78d147efbdc1a555580.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2020-12-16 225757.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PIC5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PIC6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\82487d9e4df0724d7860d65d9a9fa90a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\124.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MANA_ICON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOWN_ICON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADD_ICON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\browser-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cart-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grand-sale-offer-sale-shopping-sticker-icon-264441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tasks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2020-12-22 133835.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2020-12-22 133709.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chamcong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-user-slide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

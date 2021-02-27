@@ -1,0 +1,166 @@
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\bin\Debug\TestFramework.exe.config
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\bin\Debug\TestFramework.exe
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\bin\Debug\Guna.UI2.dll
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.csprojAssemblyReference.cache
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.Form1.resources
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.Properties.Resources.resources
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.GenerateResource.cache
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CopyComplete
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.exe
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.exe.config
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.exe
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\Guna.UI2.dll
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Login.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Properties.Resources.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.AddStaff.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.DetailsNV.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.ManageForm.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Salary.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.SalaryStaff.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Showfulllist.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.StatisticStaff.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Timekeeping.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.GenerateResource.cache
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CopyComplete
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.exe
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csprojAssemblyReference.cache
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.addnewProduct.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\Staff.Main.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\bin\Debug\Guna.UI.dll
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.InfProduct.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.manapro.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.order.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.Manaform.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.SaleForm.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.Statistic.resources
+C:\Users\Meera\Downloads\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Register.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.exe.config
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.exe
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\bin\Debug\Guna.UI2.dll
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.addnewProduct.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.InfProduct.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Login.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Properties.Resources.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.Manaform.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.manapro.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.order.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.SaleForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.Statistic.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Register.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.AddStaff.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.DetailsNV.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.ManageForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Salary.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.SalaryStaff.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Showfulllist.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.StatisticStaff.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Timekeeping.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.GenerateResource.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CopyComplete
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.exe
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.formMain.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csprojAssemblyReference.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.manaOrder.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.addCus.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.exe.config
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.exe
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\bin\Debug\Guna.UI2.dll
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csprojAssemblyReference.cache
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.addCus.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.addnewProduct.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.InfProduct.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Login.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.formMain.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Properties.Resources.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.Manaform.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.manaOrder.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.manapro.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.order.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.SaleForm.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.Statistic.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Register.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.AddStaff.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.DetailsNV.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.ManageForm.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Salary.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.SalaryStaff.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Showfulllist.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.StatisticStaff.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Timekeeping.resources
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.GenerateResource.cache
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CoreCompileInputs.cache
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CopyComplete
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.exe
+E:\Meera\JUNIOR\DBMS\TestFramework (2)\TestFramework\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\bin\Debug\TestFramework.exe.config
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\bin\Debug\TestFramework.exe
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\bin\Debug\Guna.UI2.dll
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.csprojAssemblyReference.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.addCus.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.addnewProduct.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.InfProduct.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Login.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.formMain.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Properties.Resources.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.Manaform.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.manaOrder.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.manapro.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.order.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.SaleForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.Statistic.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Register.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.AddStaff.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.DetailsNV.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.ManageForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Salary.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.SalaryStaff.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Showfulllist.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.StatisticStaff.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Timekeeping.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.GenerateResource.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CopyComplete
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.exe
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\bin\Debug\TestFramework.exe.config
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\bin\Debug\TestFramework.exe
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\bin\Debug\Guna.UI2.dll
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.csprojAssemblyReference.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.addCus.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.addnewProduct.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.InfProduct.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Login.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.formMain.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Properties.Resources.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.Manaform.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.manaOrder.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.manapro.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.order.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.SaleForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Pro.Statistic.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Register.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.AddStaff.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.DetailsNV.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.ManageForm.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Salary.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.SalaryStaff.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Showfulllist.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.StatisticStaff.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.Staff.Timekeeping.resources
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.GenerateResource.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CopyComplete
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.exe
+C:\Users\Vi Diep\OneDrive\Tài liệu\DBMS\DOANCUOIKI\TestFramework\TestFramework\obj\Debug\TestFramework.pdb

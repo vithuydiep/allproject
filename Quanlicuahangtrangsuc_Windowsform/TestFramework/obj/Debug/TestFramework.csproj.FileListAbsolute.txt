@@ -1,0 +1,12 @@
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\bin\Debug\TestFramework.exe.config
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\bin\Debug\TestFramework.exe
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\bin\Debug\Guna.UI2.dll
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.csprojAssemblyReference.cache
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.Form1.resources
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.Properties.Resources.resources
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.GenerateResource.cache
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CopyComplete
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.exe
+C:\Users\nguyenthao\Desktop\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
